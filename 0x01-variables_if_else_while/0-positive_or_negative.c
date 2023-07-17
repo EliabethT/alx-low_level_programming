@@ -1,3 +1,5 @@
+#include <stdlib.h>
+#include <stdio.h>
 #include <time.h>
 /**
  * main - generate random numbers to detect -ve or +ve
@@ -25,4 +27,3 @@ int main(void)
 	}
 	return (0);
 }
-"0-positive_or_negative.c" 29L, 383C
